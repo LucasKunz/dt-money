@@ -1,10 +1,11 @@
 {
   "title": "DT Money",
   "description": "Web application for managing financial inflows and outflows.",
-  "main-image": "https://raw.githubusercontent.com/LucasKunz/dt-money/main/.github/dt-money-main.png",
+  "main-image": "https://raw.githubusercontent.com/LucasKunz/dt-money/master/.github/dt-money-main.png",
   "images": [
-    "https://raw.githubusercontent.com/LucasKunz/dt-money/main/.github/dt-money.gif",
-    "https://raw.githubusercontent.com/LucasKunz/dt-money/main/.github/dt-money-one.png"
+    "https://raw.githubusercontent.com/LucasKunz/dt-money/master/.github/dt-money-main.png",
+    "https://raw.githubusercontent.com/LucasKunz/dt-money/master/.github/dt-money.gif",
+    "https://raw.githubusercontent.com/LucasKunz/dt-money/master/.github/dt-money-one.png"
   ],
   "technologies": [
     "Axios", "Typescript", "React", "MirageJS", "Styled-Components"
