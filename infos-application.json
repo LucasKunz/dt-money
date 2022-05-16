@@ -1,0 +1,13 @@
+{
+  "title": "DT Money",
+  "description": "Web application for managing financial inflows and outflows.",
+  "main-image": "",
+  "images": [
+    "https://raw.githubusercontent.com/saymondamasio/ignews/main/.github/screenshot-1.jpg",
+    "https://raw.githubusercontent.com/saymondamasio/ignews/main/.github/screenshot-1.jpg",
+    "https://raw.githubusercontent.com/saymondamasio/ignews/main/.github/screenshot-1.jpg"
+  ],
+  "technologies": [
+    "Axios", "Typescript", "React", "MirageJS", "Styled-Components"
+  ]
+}
